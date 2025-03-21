@@ -1,12 +1,44 @@
-# React + Vite
+# 🌱 Carbon Crunch - Assignment 2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a fully responsive landing page for **Carbon Crunch**, built as part of Assignment 2 using **React.js** and **Tailwind CSS**. It focuses on promoting eco-friendly practices with carbon footprint reporting, clean visuals, and interactive design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Project Overview
 
-## Expanding the ESLint configuration
+The landing page contains:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- A Hero Section with an image slider (Swiper.js)
+- Key statistics and performance highlights
+- A "Why Carbon Crunch?" feature section
+- A services section outlining what the company does
+
+---
+
+## 🚀 Technologies Used
+
+- **React.js** – JavaScript library for building UI
+- **Tailwind CSS** – Utility-first CSS framework
+- **Swiper.js** – For image slider in the hero section
+- **Vite** – For fast React development environment
+
+---
+
+## 🧾 Features Implemented
+
+- ✅ Modern, responsive hero section with auto-sliding images
+- ✅ Engaging UI with green and eco-friendly theme
+- ✅ Tailwind CSS used for fast styling and responsiveness
+- ✅ Stats section with impactful text
+- ✅ Reusable and clean React components
+
+---
+
+## 🛠️ Installation & Setup
+
+Follow the steps to run this project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/carbon-crunch.git
+   cd carbon-crunch
